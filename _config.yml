@@ -6,7 +6,7 @@ url:              http://blog.rogerbirong.com
 shorturl:         blog.rogerbirong.com
 baseurl:   
 # Setup
-title:               Roger Birong
+title:              'Roger Birong, Jr.'
 tagline:             'Sysadmin & DevOps Extraordinaire'
 description:         'Insights and anecdotes from a Manager of Infrastructure & Development'
 paginate:            5
