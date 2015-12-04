@@ -1,0 +1,20 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Roger Birong
+tagline:             'Sysadmin & Ops Extraordinaire'
+description:         'Insights and anecdotes from a Manager of Infrastructure & Development'
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Roger Birong, Jr.
+  url:               http://rogerbirong.com
+  email:             roger@rogerbirong.com
+# Custom vars
+version:             1.0.0
+gems: [jekyll-paginate, jekyll-gist]
