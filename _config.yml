@@ -1,19 +1,19 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink:           short-urls-jekyll
 
 # Setup
 title:               Roger Birong
 tagline:             'Sysadmin & DevOps Extraordinaire'
 description:         'Insights and anecdotes from a Manager of Infrastructure & Development'
-baseurl:             'http://localhost:4000'
+baseurl:             'http://blog.rogerbirong.com'
 paginate:            5
 
 # About/contact
 author:
   name:              Roger Birong, Jr.
-  url:               http://rogerbirong.com
+  url:               http://blog.rogerbirong.com
   email:             roger@rogerbirong.com
 # Custom vars
 version:             1.0.0

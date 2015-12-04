@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Blog Updates
+comments: True
 ---
 In search of some simplicity and ease of use, I've moved away from WordPress. WP does way more than I need it to do and I found it tedious to secure when using 3rd-party themes and plugins.
 
