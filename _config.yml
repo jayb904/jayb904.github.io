@@ -1,15 +1,15 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-
+permalink:           none
+url:              http://blog.rogerbirong.com
+shorturl:         blog.rogerbirong.com
+baseurl:   
 # Setup
 title:               Roger Birong
 tagline:             'Sysadmin & DevOps Extraordinaire'
 description:         'Insights and anecdotes from a Manager of Infrastructure & Development'
-#baseurl:             ''
 paginate:            5
-url:                 blog.rogerbirong.com
 # About/contact
 author:
   name:              Roger Birong, Jr.
@@ -22,3 +22,6 @@ gems: [jekyll-paginate, jekyll-gist]
 markdown: kramdown
 kramdown:
   syntax_highlighting: rouge
+
+
+       ''
