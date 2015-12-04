@@ -2,7 +2,6 @@
 layout: post
 title: Blog Updates
 comments: True
-permalink: 2015-12-03-blog-updates
 ---
 In search of some simplicity and ease of use, I've moved away from WordPress. WP does way more than I need it to do and I found it tedious to secure when using 3rd-party themes and plugins.
 

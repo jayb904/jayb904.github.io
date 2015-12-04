@@ -3,7 +3,6 @@ layout: post
 title: The State of Monitoring
 tags: monitoring
 comments: True
-permalink: the-state-of-monitoring
 ---
 
 System and Service Monitoring is something that I believe doesn’t get enough attention. Having visibility into the services you’re responsible for is an absolute must for any operations team. Finding out via a phone call or escalation that a critical service can certainly be a resume generating event. While some organizations have a dedicated team for such systems, most Sysadmins and Operations teams are left to figure this critical component out on their own.

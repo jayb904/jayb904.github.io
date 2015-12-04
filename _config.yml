@@ -1,13 +1,13 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           none
+permalink:           pretty
 
 # Setup
 title:               Roger Birong
 tagline:             'Sysadmin & DevOps Extraordinaire'
 description:         'Insights and anecdotes from a Manager of Infrastructure & Development'
-baseurl:             'http://blog.rogerbirong.com'
+baseurl:             ''
 paginate:            5
 
 # About/contact
